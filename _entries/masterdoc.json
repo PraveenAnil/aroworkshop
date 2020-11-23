@@ -1,0 +1,25 @@
+[ 
+ {
+  "Name": "Azure Red Hat OpenShift Workshop",
+  "Language": "English",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/fasalzaman/aroworkshop/master/_entries/0_introduction.md",
+      "Order": 1
+    },
+        {
+      "RawFilePath": "https://raw.githubusercontent.com/fasalzaman/aroworkshop/master/_entries/1_go_microservices.md",
+      "Order": 2
+    },
+        {
+      "RawFilePath": "https://raw.githubusercontent.com/fasalzaman/aroworkshop/master/_entries/2_aro_internals.md",
+      "Order": 3
+    },
+        {
+      "RawFilePath": "https://raw.githubusercontent.com/fasalzaman/aroworkshop/master/_entries/3_cicd.md",
+      "Order": 4
+    }
+  ]
+ }
+
+]
